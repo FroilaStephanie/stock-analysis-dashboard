@@ -1,2 +1,16 @@
-# stock-analysis-dashboard
-Stock and revenue analysis of Tesla and GameStop using Python, web scraping and data visualization.
+# Stock Analysis Dashboard
+
+This project analyzes Tesla and GameStop stock and revenue data using Python.
+
+## Features
+- Extract stock data using yfinance
+- Scrape revenue data using BeautifulSoup
+- Clean and process financial data
+- Visualize trends using graphs
+
+## Technologies
+- Python
+- Pandas
+- yfinance
+- BeautifulSoup
+- Plotly
